@@ -1,0 +1,24 @@
+{
+  "name": "webpackPractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tpgmartin/webpackPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpgmartin/webpackPractice/issues"
+  },
+  "homepage": "https://github.com/tpgmartin/webpackPractice",
+  "devDependencies": {
+    "css-loader": "^0.18.0",
+    "style-loader": "^0.12.4",
+    "webpack": "^1.12.2"
+  }
+}
